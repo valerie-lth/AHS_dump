@@ -1,0 +1,200 @@
+Note: Skipped reports has no history section
+Patient 1:
+MR1:
+History: Gamma knife treatment planning MR.*****breast cancer with brain metastases. Previous craniotomy and gamma knife treatment in **********. New lesion in the left frontal lobe.
+MR3:
+HISTORY: Known breast cancer.  New lesions on recent CT.
+MR4:
+CLINICAL HISTORY: 30 years Female; assess for progression
+CT6:
+CLINICAL HISTORY: Postop.  Tumor resection.
+MR7:
+Clinical history is carcinoma, intracranial metastases follow-up
+CT8:
+Clinical history breast cancer staging
+CT11:
+HISTORY: Known metastatic disease from breast cancer.  Query progression.
+CT12:
+CLINICAL HISTORY: 30 years Female; metastatic triple negative breast cancer with brain metastases and new headache
+MR13:
+History: Metastatic breast cancer. Previous posterior fossa craniotomy as well as SRS for multiple brain lesions. CT shows new right parietal lesion.
+MR14:
+HISTORY: History of breast cancer with brain metastasis.  Query response to treatment.
+MR16:
+History of Breast Cancer with brain mets. Had Posterior Fossa Craniotomy on ********** for Large Cerebellar mass. Gamma Knife SRS of six lesions along with cerebellar tumor bed Scheduled for ***** **********.
+MR17:
+HISTORY: Query response to radiation. Rule out adverse changes. Stage IV metastatic breast cancer.
+
+
+Paient2:
+CT1:
+History: Lung cancer with brain metastases.  Increased nausea and vomiting.
+CT3:
+Clinical: Possible stroke.  History of lung cancer.
+MR4:
+Clinical: Symptoms of CVA.  Multiple lesions seen on CT head scan.
+
+
+Patient3:
+CT1:
+CLINICAL HISTORY/INDICATION: *2 weeks of morning headaches and intermittent L thumb paresthesias. Now 3.5 hours of L facial weakness and numbness. ?stroke/mass
+MR2:
+HISTORY: 75-year-old female acute onset left-sided paresthesias to the face and forehead.  Small areas of hyperattenuation on CT suggestive of cortical based lesion.  Prior history of melanoma.  Query pathology.
+
+
+Patient4:
+MR1: 
+History: As Above  (They didn’t give prior documents)
+MR2:
+HISTORY:  NSCLC WITH MULTIPLE BRAIN METS, on cisplatin and pemetrexed. R/O PROGRESSION
+MR4:
+CLINICAL INFORMATION *****Metastatic NSCLC with right proximal humerus and brain metastatic disease. Currently on afatinib. Study being conducted to assess progression.
+MR5:
+CLINICAL HISTORY: NSCLC.  Multiple brain metastases with leptomeningeal disease.  On osimertinib.  Rule out progression.  Electronic chart was reviewed and there is a history of palliative radiation to the brain ending **********.
+MR6:
+CLINICAL HISTORY
+Metastatic nonsmall cell lung cancer with brain metastasis and leptomeningeal disease.
+MR7:
+CLINICAL HISTORY: Known brain metastases.
+MR8:
+CLINICAL HISTORY: NSCLC.  Known multiple brain metastases.  On afatinib.  Rule out progression.
+MR10:
+CLINICAL HISTORY: NSCLC.  Brain metastases and leptomeningeal disease.  Response evaluation.  Electronic chart was reviewed and there is a history of whole brain radiotherapy ending **********.  It appears that the patient is currently on osimertinib.
+MR11:
+HISTORY:  46-year-old female patient, EGFR / T790M+ NSCLC on osimertinib. Multiple brain metastases and leptomeningeal disease.  Query response.
+MR12:
+REQUISITION:   Non-small cell lung cancer. Multiple brain metastases and? Leptomeningeal disease. Rule out recurrence.
+MR13:
+CLINICAL HISTORY: Lung mass, brain metastases.
+MR14:
+HISTORY:  46-year-old female patient, EGFR / T790M+ NSCLC on osimertinib. Multiple brain metastases and leptomeningeal disease. Rule out progression.
+MR15:
+HISTORY:  NSCLC, MULTIPLE BRAIN LESIONS ? RESPONSE
+MR16:
+CLINICAL HISTORY: Non-small cell lung cancer with brain metastases. Query progression of brain metastases.
+CT17:
+HISTORY: Non-small cell lung cancer.  Rule out progression
+CT18: 
+no history
+
+Patient 5:
+CT1:
+HISTORY: Melanoma, follow-up.
+MR2:
+CLINICAL HISTORY: Melanoma
+MR3:
+CLINICAL HISTORY: History of melanoma with brain metastases.  Treated with GK SRS on **********, ********** and **********.  Response to treatment?  Electronic chart was reviewed and consultation no ********** indicated over 50 lesions have been treated with gamma knife.  The details of which lesions were treated when could not be found on *****.
+MR4:
+HISTORY:
+History of metastatic melanoma with multiple brain metastases. Has had multiple brain metastases treated with GK SRS. Recent follow-up scan shows nine new or progressing lesions. Scheduled for Gamma Knife SRS on ***** **********.
+CT5:
+HISTORY: Resected stage III melanoma.  Surveillance.  Known sarcoidosis
+… no history section in between
+MR9:
+CLINICAL INDICATION: HX OF MELANOMA + BRAIN METS TREATED WITH GAMMA KNIFE SRS ON ********** ? RESPONSE TO TREATMENT
+MR10:
+HISTORY: Right shoulder melanoma. Restaging prior to start of adjuvant immunotherapy trial. Right neck dissection **********. Metastases/recurrence?
+CT11:
+HISTORY: Melanoma. Resumed combination immunotherapy. Response to treatment?
+MR12:
+CLINICAL HISTORY: Right shoulder melanoma with progression to lung and brain. Dabrafenib and Trametinib  treatment.  Query progression?  Query response to treatment?
+MR13:
+HISTORY:  HX OF MELANOMA + BRAIN METS TREATED WITH GAMMA KNIFE SRS ON ********** & ********** ? RESPONSE TO TREATMENT
+MR14:
+CLINICAL HISTORY: Melanoma
+MR15:
+Clinical information: HIstory of Metastatic Melanoma with multiple brain mets. Most recent Imaging demonstrates 12 new or progressive lesions. Gamma Knife Treatment Scheduled on ***** **********.   
+
+Patient 6:
+Has no history section
+
+Patient 7:
+MR1:
+HISTORY: Patient is *****year-old male, with brain metastases and unknown primary.  Now has 2 day history of right-sided weakness.
+MR2:
+HISTORY: Unknown primary-brain metastasis resected.  Tumor bed SRS **********.  Routine follow-up.
+MR3:
+CLINICAL INDICATION: Brain metastasis resected **********.  Unknown primary tumor.  Stereotactic radiosurgery to tumor bed    **********.  Increased symptoms of right hand weakness.  Query focal seizures.  Routine follow-up.  Assess for ?  radiotherapy necrosis.
+CT4:
+CLINICAL INFORMATION: Patient is *****year-old male, with known intracerebral metastases.  Please rule out bleed.
+MR5:
+CLINICAL INDICATION: 75 year-old male with unknown primary brain mets resected **********. SRS to tumor bed. ********** SRS to 2 new mets **********. Routine follow up.
+MR6:
+Click history is bladder cancer with brain metastases post resection and SRS
+MR7:
+HISTORY: Unknown primary with brain metastases.  Resected **********.  SRS to the tumor bed **********.
+CT8:
+HISTORY: New (R) leg weakness without clear etiology. Please r/o stroke.  
+MR9:
+HISTORY: Two lesions on CT suggestive of metastasis. For preoperative planning.
+MR10:
+CLINICAL INDICATION:  74-year-old male ca bladder with brain met resected in ********** and 1 unresected met. For SRS planning to tumor bed + unresected met.  
+MR11:
+HISTORY:74-year-old male with 2 intracranial ring-enhancing lesions. Postop tumor resection.
+MR12:
+CLINICAL HISTORY/INDICATION: *Post op resection of brain mets. Purulent drainage from incision site. Please assess for depth of infection
+CT13:
+HISTORY: Known metastatic cancer -progression of right leg weakness and new right arm weakness -query tumor progression/swelling versus CVA..  The patient's chart reveals history of multiple stereotactic radiation therapy treatments for intracranial metastatic disease.
+
+Patient 8:
+MR1:
+INDICATION:  Radiation Plan Fusion Protocol.  Postop occipital tumor resection
+MR2:
+HISTORY: NSCLC Lung Ca with brain mets. Craniotomy *****. Routine F/U
+MR3:
+CLINICAL INDICATION: Routine follow-up.  Non-small cell lung cancer with brain metastasis.  Craniotomy **********.
+MR4:
+HISTORY: Non-small cell lung cancer with brain metastases.  Resected **********.  Stereotactic radiosurgery **********.  Routine follow-up.
+MR5:
+HISTORY: NSCL lung w/ brain mets, craniotomy *****routine f/u
+MR6:
+CLINICAL HISTORY/INDICATION:  NSCL with brain mets - resected *****. SRS *****. Routine F/U.
+CT7:
+CLINICAL HISTORY:  (1) 76 F, low speed MVC, amnesia around event. Further history obtained from the patient's electronic medical record: History of lung cancer.
+MR8:
+HISTORY: NSCLC with brain mets - resected *****. SRS *****. Routine F/U.
+MR9:
+History:  Previous Hx lung CA. R occipital lobe met? MR WITH STEALTH/FIDUCIALS
+MR10:
+CLINICAL INDICATION:  right parietal occipital craniotomy for lung ca, brain metastases *****, post op follow up   
+
+
+Patient 9:
+CT1:
+HISTORY: Lung adenocarcinoma with brain metastases.  Post radiation therapy.  Follow-up.  Query disease progression.
+MR2:
+CLINICAL HISTORY: Lung cancer with brain metastases treated with GK SRS **********.  Response to treatment/assess for intracranial progression. ***** was reviewed and there is a history of left temporal craniotomy **********.
+CT3:
+CLINICAL HISTORY:
+Stage IV non-small cell lung cancer on immunotherapy.  Brain metastases treated with gamma knife.  Rule out progression.  Electronic chart was reviewed and there is a history of left-sided craniotomy **********.  Whole brain radiation for brain metastases **********.  Pembrolizumab.
+CT4:
+CLINICAL HISTORY:
+Non-small cell lung cancer
+MR5:
+CLINICAL HISTORY:  History of lung cancer with brain metastases treated with GK SRS **********.  Query response to treatment/assess for intracranial progression.
+CT6:
+CLINICAL HISTORY: Non-small cell lung cancer
+CT7:
+There are no prior studies available for comparison. A clinical history of "seizure" has been provided. I note that the patient has a history of lung cancer.
+MR8:
+Clinical information:
+Left temporoparietal tumour on CT head. History of NSCLC. With*****without enhancement, +DWI/ADC, + Stealth please.
+CT9:
+A clinical history of "postop" has been provided
+MR10:
+MR brain for gamma knife treatment planning: Axial 3 mm T2. Axial 3-D T1 MP rage post gadolinium with coronal and sagittal reformats.
+MR11:
+CLINICAL HISTORY: Baseline imaging for trial. Metastatic NSCLC. Identify target and nontarget lesions.
+CT12:
+HISTORY: Postop tumor resection, ongoing nausea vomiting, assess for complication.
+MR13:
+HISTORY: 59-year-old female patient, metastatic NSCLC on immunotherapy. Rule out progression.
+MR14:
+HISTORY:  HX OF LUNG CANCER + BRAIN METS TREATED WITH GAMMA KNIFE SRS IN *****. ***** ? RESPONSE TO TREATMENT
+MR16:
+HISTORY:  HX OF LUNG CANCER + BRAIN METS TREATED WITH GAMMA KNIFE SRS IN *****. ***** ? RESPONSE TO TREATMENT
+
+
+
+
+
